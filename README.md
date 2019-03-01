@@ -8,6 +8,7 @@ Présentation et jeu de données de **Sylvain Badey** (Inrap - UMR 7324 Citères
 ## Notes:
 
 La présentation (papier de 29 pages) et les données sont déposées sur la plateforme HAL ici =>  [〈cel-01764581〉](https://hal.archives-ouvertes.fr/cel-01764581)
+
 Ici n'a été déposé en plus que le diaporama de présentation en PDF
 
 ## Résumé:
